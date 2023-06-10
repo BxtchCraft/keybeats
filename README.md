@@ -38,8 +38,8 @@ All songs were licensed for this project.
 
 We have an exciting roadmap ahead for KeyBeats, with several enhancements planned for the future:
 
-- Mobile-Friendly: We are working on optimizing KeyBeats to be compatible with mobile devices, allowing players to enjoy the game on the go.
-- Animation Optimization: We are continuously improving the game's animations to provide a smoother and more visually appealing experience.
-- Automated Songmap Generation: Our team is developing a system to automate the generation of songmaps, making it easier to add new songs to KeyBeats.
-- User-Uploaded Songs: We are actively working on implementing a feature that allows users to upload their own song files, further expanding the game's library.
-- Persistent High Scores: We will introduce a database system to save and display high scores, allowing players to compete and track their progress over time.
+- Mobile-Friendly: Work on optimizing KeyBeats to be compatible with mobile devices, allowing players to enjoy the game on the go.
+- Animation Optimization: Improve the game's animations to provide a smoother and more visually appealing experience.
+- Automated Songmap Generation: Develop a system to automate the generation of songmaps, making it easier to add new songs to KeyBeats.
+- User-Uploaded Songs: Implement a feature that allows users to upload their own song files, further expanding the game's library.
+- Persistent High Scores: Introduce a database system to save and display high scores, allowing players to compete and track their progress over time.
