@@ -1,5 +1,7 @@
 # KeyBeats
 
+![ScreenShot](https://raw.github.com/spyress710/keybeats/main/screenshots/game-normal.png)
+
 ## ABOUT THE GAME
 
 KeyBeats is an engaging rhythm game inspired by the popular games Guitar Hero and Beat Saber. The objective of the game is to hit the correct key before the corresponding note reaches the bottom of the track. Your goal is to maintain accuracy throughout the entire song to achieve victory. Be careful though, missing too many notes will result in a loss.
@@ -7,6 +9,9 @@ KeyBeats is an engaging rhythm game inspired by the popular games Guitar Hero an
 While KeyBeats is designed to be played exclusively on laptops or desktop PCs, its inception was fueled by a desire to learn more about creating rhythm games. With KeyBeats, I set out to develop a captivating rhythm game experience while also embarking on a personal journey to enhance my development skills. The game offers an enjoyable and challenging experience, allowing players to sit back, relax, and immerse themselves in a fantastic soundtrack with just a few left clicks and the A, S, D, and F keys.
 
 ## CHALLENGES
+
+![ScreenShot](https://raw.github.com/spyress710/keybeats/main/screenshots/game-lost.png)
+
 During the development of KeyBeats, I encountered and successfully overcame two significant challenges:
 
 **Generating Song Scripts:** One of the major hurdles was creating a script for song mapping. Designing a system that could accurately represent the notes and their timings in a song required careful consideration. I invested time and effort into developing an efficient algorithm that could interpret song data and generate appropriate note maps for players to follow. This challenge pushed me to dive deep into the intricacies of music analysis and programming logic.
@@ -28,6 +33,8 @@ https://foobar404.github.io/Wave.js/#/docs
 All songs were licensed for this project.
 
 ## NEXT STEPS
+
+![ScreenShot](https://raw.github.com/spyress710/keybeats/main/screenshots/win-results.png)
 
 We have an exciting roadmap ahead for KeyBeats, with several enhancements planned for the future:
 
